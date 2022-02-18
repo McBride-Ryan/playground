@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #202124;
+  color: white;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  padding: 30px 25px;
+  background-color: #ffffff;
+  color: #202124;
+}
+
+nav > icon {
+  height: 30px;
+  margin-right: 7px;
+}
+
+nav > header {
+  margin-right: auto;
+}
+header {
+  color: #70defb;
+  font-size: 30px;
+}
